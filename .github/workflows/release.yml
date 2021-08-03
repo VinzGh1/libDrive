@@ -10,7 +10,7 @@ on:
       server:
         description: "The server repositry clone URL and extra commands"
         required: true
-        default: "libdrive/server"
+        default: "libDrive/server"
       server-branch:
         description: "The branch of the server repositry to clone"
         required: true
@@ -18,7 +18,7 @@ on:
       web:
         description: "The web repositry clone URL and extra commands"
         required: true
-        default: "libdrive/web"
+        default: "libDrive/web"
       web-branch:
         description: "The branch of the web repositry to clone"
         required: true
