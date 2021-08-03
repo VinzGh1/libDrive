@@ -10,7 +10,7 @@ on:
       server:
         description: "The server repositry clone URL and extra commands"
         required: true
-        default: "VinzGh1/server"
+        default: "libdrive/server"
       server-branch:
         description: "The branch of the server repositry to clone"
         required: true
